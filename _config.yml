@@ -1,0 +1,28 @@
+name: Augustineyong
+favicon: null
+layout_spectrum: 0.5430639171972871
+typography_spectrum: 0.4763258283492178
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.16943309362977743
+  lightness: 0.7436307470779866
+  saturation: 0.5481280572712421
+  rhythmicContrast: 0.9203486288897693
+purpose: []
